@@ -1,5 +1,7 @@
 import streamlit as st
 
+API_URL = "https://neuroaml-api.onrender.com"
+
 from src.behavior_features import load_transactions, build_user_behavior
 from src.anomaly_detector import detect_anomalies
 from src.transaction_graph import build_transaction_graph, detect_graph_anomalies
