@@ -1,0 +1,11 @@
+transaction_id,sender_id,receiver_id,amount,timestamp,location,merchant_category,device_id
+fe9652ab-1ce2-4f55-9b8f-5ab3c369e4f6,user_36,user_6,8737.31,2026-02-01T22:33:30.402627,Bangalore,Groceries,device_18
+d1bb4e70-aeb2-490e-ba8a-45ddffd1e52a,user_30,user_32,8194.23,2026-02-01T22:33:30.402627,Chennai,Groceries,device_2
+15c99dd3-0f87-4499-9a36-b4c62455fb44,user_16,user_11,8690.32,2026-02-01T22:33:30.402627,Delhi,Food,device_2
+92b12cd1-bfec-4131-b253-3c94db645991,user_33,user_31,1104.94,2026-02-01T22:33:30.402627,Chennai,Shopping,device_19
+a0b657d2-4580-41b1-a9ba-f1466e86662a,user_4,user_27,9513.58,2026-02-01T22:33:30.402627,Bangalore,Shopping,device_7
+f952ca42-00aa-402c-bfb1-4d99bce86116,user_2,user_5,2462.53,2026-02-01T22:33:30.402627,Mumbai,Food,device_19
+a4e24cea-f069-442a-a437-6a5e4c3c2bc8,user_50,user_9,5903.13,2026-02-01T22:33:30.402627,Bangalore,Electronics,device_6
+4c822212-b055-44b4-ab15-3db9d3f5c182,user_31,user_41,7680.37,2026-02-01T22:33:30.402627,Delhi,Shopping,device_6
+3d236f66-bbe3-4702-93eb-a8d1ad8a126a,user_11,user_26,3336.26,2026-02-01T22:33:30.402627,Bangalore,Fuel,device_20
+b64f49e2-a461-435e-8e27-4ba4bfa07f8b,user_50,user_23,1962.54,2026-02-01T22:33:30.402627,Mumbai,Shopping,device_6
