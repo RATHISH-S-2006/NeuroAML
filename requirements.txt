@@ -1,5 +1,7 @@
-fastapi
-uvicorn
-streamlit
 scikit-learn
 networkx
+streamlit
+requests
+pandas
+fastapi
+uvicorn
