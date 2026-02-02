@@ -171,7 +171,7 @@ uvicorn main:app --reload
 3️⃣ Run the dashboard
 streamlit run dashboard.py
 
-🎤 Demo Flow (Recommended for Judges)
+🎤 Demo Flow (Recommended for Everyone)
 
 Open Monitoring Mode → observe live risk evolution
 
@@ -219,4 +219,5 @@ ML-based risk calibration
 
 Rathish
 Computer Science Engineering
-NeuroAML — SIH Project
+NeuroAML — Hackathon Project
+
